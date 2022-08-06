@@ -3,23 +3,23 @@
     {
         "scores":   [
       {
-        "user_id": Mafe,
+        "user_id": "Mafe",
         "score": 5
       },
       {
-        "user_id": Tony,
+        "user_id": "Tony",
         "score": 2
       },
       {
-        "user_id": Linhardt,
+        "user_id": "Linhardt",
         "score": 4
       },
       {
-        "user_id": Karol G,
+        "user_id": "Karol G",
         "score": 14
       },
       {
-        "user_id": Bad Bunny,
+        "user_id": "Bad Bunny",
         "score": 10
       }
         ] 
